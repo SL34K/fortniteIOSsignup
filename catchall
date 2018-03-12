@@ -67,7 +67,7 @@ while signups > x:
         file.write(email+':'+username+'\n')
         file.close()
         x=x+1
-        time.sleep(20)
+        time.sleep(10)
     except:
         print("Error")
         time.sleep(30)
