@@ -20,3 +20,11 @@ Make country united kingdom.
 Include these: (MAKE SURE THEY'RE IN THIS ORDER!)
 
 GivenName,Surname,Birthday,Street Address,City,State Full name,post code,Username
+
+
+
+###########################################
+
+IF YOU ARE GETTING AN ERROR MAKE SURE THE SIGNUP PAGE HAS NOT CRASHED AGAIN: https://www.epicgames.com/fortnite/en-US/event/register
+
+###########################################
