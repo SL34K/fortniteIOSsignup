@@ -21,6 +21,7 @@ Include these: (MAKE SURE THEY'RE IN THIS ORDER!)
 
 GivenName,Surname,Birthday,Street Address,City,State Full name,post code,Username
 
+Wait for the email, download the zip and extract the .csv file and rename it to profiles.csv
 
 
 ###########################################
