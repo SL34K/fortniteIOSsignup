@@ -44,3 +44,27 @@ GMAIL FILE - Enter your gmail prefix (if your gmail is github@gmail.com your pre
 
 Install the dependencies with pip in the dependensies file (use google)
 
+MAC TRY THESE:
+
+sudo pip install requests
+
+sudo pip install bs4
+
+sudo pip install datetime
+or
+
+sudo pip3 install requests
+
+sudo pip3 install bs4
+
+sudo pip3 install datetime
+
+
+Windows:
+
+pip install requests
+
+pip install bs4
+
+pip install datetime
+
