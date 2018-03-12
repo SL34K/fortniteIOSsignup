@@ -35,3 +35,6 @@ You can change the waittimes after signing up, 10 seconds should insure no ban i
 CATCHALL FILE = USE WITH A CATCHALL DOMAIN - EDIT the DOMAIN TO YOUR DOMAIN.
 
 GMAIL FILE - Enter your gmail prefix (if your gmail is github@gmail.com your prefix would be github) between then ''.
+
+Install the dependencies with pip in the dependensies file (use google)
+
