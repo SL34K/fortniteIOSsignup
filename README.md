@@ -31,3 +31,7 @@ IF YOU ARE GETTING AN ERROR MAKE SURE THE SIGNUP PAGE HAS NOT CRASHED AGAIN: htt
 ###########################################
 
 You can change the waittimes after signing up, 10 seconds should insure no ban if you aren't using any proxies, less would probably work fine aswell.
+
+CATCHALL FILE = USE WITH A CATCHALL DOMAIN - EDIT the DOMAIN TO YOUR DOMAIN.
+
+GMAIL FILE - Enter your gmail prefix (if your gmail is github@gmail.com your prefix would be github) between then ''.
