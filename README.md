@@ -28,3 +28,5 @@ GivenName,Surname,Birthday,Street Address,City,State Full name,post code,Usernam
 IF YOU ARE GETTING AN ERROR MAKE SURE THE SIGNUP PAGE HAS NOT CRASHED AGAIN: https://www.epicgames.com/fortnite/en-US/event/register
 
 ###########################################
+
+You can change the waittimes after signing up, 20 seconds ensures no ban if you aren't using any proxies, less would probably work fine aswell.
