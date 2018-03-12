@@ -1,6 +1,12 @@
 # fortniteIOSsignup
 Simple python bot using requests to signup for bulk fortnite ios invites
 
+###########################################################
+
+YOU RUN THE FILE YOU EDIT - EITHER GMAIL OR CATCHALL
+
+###########################################################
+
 Use common sense, any issues shoot me a discord or twitter message.
 
 Twitter: @SL34K
