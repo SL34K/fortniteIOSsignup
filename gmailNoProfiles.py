@@ -10,7 +10,7 @@
 #00110000 00110011
 #00110001 00111000 
 #########################################
-import random, requests, bs4, json, datetime, time, names
+import random, requests, bs4, json, datetime, time, names, string
 from random import *
 from bs4 import BeautifulSoup
 signuppage = 'https://accounts.epicgames.com/register/doCustomRegister'
@@ -24,7 +24,11 @@ def main():
     first = names.get_first_name()
     last = names.get_last_name()
     numbers = getrandbits(10)
-    username = first+(str(numbers))
+    min_char = 2
+    max_char = 4
+    allchar = string.ascii_letters
+    randomletters = "".join(choice(allchar) for x in range(randint(min_char, max_char)))
+    username = randomletters+first+randomletters+(str(numbers))
     print(first,last,numbers,username)
     email = "{}+{}@gmail.com".format(prefix,username)
     print(email)
