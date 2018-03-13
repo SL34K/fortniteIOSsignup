@@ -48,7 +48,7 @@ Wait for the email, download the zip and extract the .csv file and rename it to 
 
 ###########################################
 
-IF YOU ARE GETTING AN ERROR MAKE SURE THE SIGNUP PAGE HAS NOT CRASHED AGAIN: https://www.epicgames.com/fortnite/en-US/event/register
+IF YOU ARE GETTING AN ERROR MAKE SURE THE SIGNUP PAGE HAS NOT CRASHED AGAIN: https://www.epicgames.com/fortnite/en-US/mobile/sign-up
 
 ###########################################
 
