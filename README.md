@@ -27,7 +27,7 @@ Twitter: @SL34K
 
 Discord: Sleak#4391
 
-# Using Profiles.CSV version
+# Using Profiles.CSV version (NOT NEEDED UNLESS YOU ARE USING THE OLD VERSION)
 
 MAKE SURE TO CHANGES THE PROFILES.CSV so you get a fresh set of usernames so you wont be blocked by EPIC.
 
