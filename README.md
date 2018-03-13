@@ -62,7 +62,7 @@ Install the dependencies with pip in the dependencies file (use google)
 
 # Dependencies 
 
-MAC TRY THESE:
+MAC TRY THESE (run in terminal or bash):
 
 sudo pip install requests
 
@@ -82,7 +82,7 @@ sudo pip3 install datetime
 
 sudo pip3 install names
 
-Windows:
+Windows (run in CMD):
 
 pip install requests
 
