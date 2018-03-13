@@ -5,6 +5,8 @@ Simple python bot using requests to signup for bulk fortnite ios invites
 
 YOU RUN THE FILE YOU EDIT - EITHER GMAIL OR CATCHALL
 
+If you use the NoProfiles versions you don't need any other files aslong as you install the dependencies.
+
 ###########################################################
 
 Use common sense, any issues shoot me a discord or twitter message.
