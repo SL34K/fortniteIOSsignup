@@ -1,1 +1,3 @@
 requests, bs4, datetime
+you will need names if you are using the noprofiles version.
+Use pip to install these.
