@@ -68,3 +68,5 @@ pip install bs4
 
 pip install datetime
 
+# HOW TO USE PROXIES
+Make a new folder with a random name, place the gmailProxySupportNoProfiles.py or catchallProxySupportNoProfiles.py and a file called proxy.txt with 1 proxy in it and run it, if you want to run on multiple proxies just make multiple folders all with a different proxy in the proxy.txt this way they will all make one account per 10 seconds to avoid any ban.
