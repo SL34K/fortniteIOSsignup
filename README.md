@@ -21,14 +21,13 @@ If you use the NoProfiles versions you don't need any other files aslong as you 
 
 ###########################################################
 
-Use common sense, any issues shoot me a discord or twitter message.
+# Use common sense, any issues shoot me a discord or twitter message.
 
 Twitter: @SL34K
 
 Discord: Sleak#4391
 
-Only needed if you are using profiles.csv version
-\/\/\/\/\/\/
+# Using Profiles.CSV version
 
 MAKE SURE TO CHANGES THE PROFILES.CSV so you get a fresh set of usernames so you wont be blocked by EPIC.
 
