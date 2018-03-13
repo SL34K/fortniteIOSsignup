@@ -1,6 +1,18 @@
 # fortniteIOSsignup
 Simple python bot using requests to signup for bulk fortnite ios invites
 
+
+# Basic Setup...
+
+Download either catchallNoProfiles.py or gmailNoProfiles.py (gmail if you are using gmail, catchall if you're using catchall)
+
+Install the dependencies listed in the dependencies file (look below for the commands, google pip if you don't have it.
+
+Edit the file you are going to run either the gmail or cathcall and ONLY edit ether prefix - '' to have your prefix between the '' so if your gmail was test@gmail.com your prefix = 'test' if you are using catchall replace domain.com with your domain.
+
+Don't change anything else until you have the bot working.
+
+
 ###########################################################
 
 YOU RUN THE FILE YOU EDIT - EITHER GMAIL OR CATCHALL
@@ -47,7 +59,9 @@ CATCHALL FILE = USE WITH A CATCHALL DOMAIN - EDIT the DOMAIN TO YOUR DOMAIN.
 
 GMAIL FILE - Enter your gmail prefix (if your gmail is github@gmail.com your prefix would be github) between the ''.
 
-Install the dependencies with pip in the dependensies file (use google)
+Install the dependencies with pip in the dependencies file (use google)
+
+# Dependencies 
 
 MAC TRY THESE:
 
