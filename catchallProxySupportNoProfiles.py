@@ -16,7 +16,7 @@ from random import *
 signuppage = 'https://accounts.epicgames.com/register/doCustomRegister'
 signupurl = 'https://accounts.epicgames.com/register/doCustomRegister?productName=fortnite'
 murl = 'https://www.epicgames.com/fortnite/en-US/event/register'
-domain ='@domain.com' # replace domain.com with your catchall domain make sure to leave the @ sign
+domain ='@ukcarts.co.uk' # replace @ukcarts.co.uk with your catchall domain make sure to leave the @ sign
 x = 0
 gendelay = 10 #only change if you want to change the delay between account gen
 errordelay = 60 #time to sleep after an error (seconds)
