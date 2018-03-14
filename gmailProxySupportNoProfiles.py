@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 signuppage = 'https://accounts.epicgames.com/register/doCustomRegister'
 signupurl = 'https://accounts.epicgames.com/register/doCustomRegister?productName=fortnite'
 murl = 'https://www.epicgames.com/fortnite/en-US/event/register'
-prefix ='prefix' #replace prefix with your gmail prefix if your account is test@gmail.com your prefix would be test
+prefix ='ukcarts' #replace ukcarts with your gmail prefix if your account is test@gmail.com your prefix would be test
 x = 0
 gendelay = 10 #only change if you want to change the delay between account gen
 errordelay = 60 #time to sleep after an error (seconds)
