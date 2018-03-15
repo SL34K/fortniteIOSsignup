@@ -2,6 +2,10 @@
 Simple python bot using requests to signup for bulk fortnite ios invites
 
 
+#################
+PASSWORD TO THE ACCOUNTS IS THE SAME AS THE USERNAME!
+#################
+
 # Basic Setup...
 
 Download either catchallNoProfiles.py or gmailNoProfiles.py (gmail if you are using gmail, catchall if you're using catchall)
