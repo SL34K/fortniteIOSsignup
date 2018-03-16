@@ -66,6 +66,11 @@ Install the dependencies with pip in the dependencies file (use google)
 
 # Dependencies 
 
+#RUN DEPENDENCIES.py
+
+OR:
+
+
 MAC TRY THESE (run in terminal or bash):
 
 sudo pip install requests
